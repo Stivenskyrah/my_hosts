@@ -5,8 +5,13 @@
 
 #crahlytics
 0.0.0.0 crashlytics.com
-0.0.0.0 e.crashlytics.com
+0.0.0.0 e.crashlytics.com 
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+
+#paypal
+0.0.0.0 b.stats.paypal.com
+0.0.0.0 dub.stats.paypal.com
 
 #metrics
 0.0.0.0 qualitym8trics.com
@@ -16,11 +21,33 @@
 0.0.0.0 optimizely.com
 0.0.0.0 formisimo.com
 0.0.0.0 cdn-static.formisimo.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 metrics.bt.com
+0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 vivaki.demdex.net
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 eu.qualtrics.com
+0.0.0.0 jfe-cdn.qualtrics.com
+0.0.0.0 zn5ydlsbwpgrsccsp-qps.siteintercept.qualtrics.com
+0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 stats.openvpn.net
+0.0.0.0 analytics.twitter.com
+0.0.0.0 smetrics.samsung.com
+
+#tracking
+0.0.0.0 track.callcredit.hosted.strongview.com
+0.0.0.0 track.mixmax.com
+0.0.0.0 sptrack.trello.com
 0.0.0.0 tracking.formisimo.com
+0.0.0.0 tracking.solidworks.com
+0.0.0.0 tracking.3ds.com
+0.0.0.0 tracker.affirm.com
 
 #ads
-0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 affirm.com
 0.0.0.0 3lift.com
+0.0.0.0 3lift.com.w3snoop.com
+0.0.0.0 w3snoop.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 adroll.com
 0.0.0.0 a.adroll.com
@@ -46,7 +73,11 @@
 0.0.0.0 pixel.advertsing.com
 0.0.0.0 demdex.net
 0.0.0.0 dpm.demdex.net
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 demdex.net
+0.0.0.0 www.da-ads.com
+0.0.0.0 da-ads.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adnxs.com
 0.0.0.0 ib.adnxs.com
@@ -75,6 +106,35 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 veinteractive.com
 0.0.0.0 configusa.veinteractive.com
+0.0.0.0 dpm.demdex.net
+0.0.0.0 data09.adlooxtracking.com
+0.0.0.0 data21.adlooxtracking.com
+0.0.0.0 data25.adlooxtracking.com
+0.0.0.0 data31.adlooxtracking.com
+0.0.0.0 data47.adlooxtracking.com
+0.0.0.0 data49.adlooxtracking.com
+0.0.0.0 data51.adlooxtracking.com
+0.0.0.0 data57.adlooxtracking.com
+0.0.0.0 j.adlooxtracking.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 ads.kiosked.com
+0.0.0.0 adlooxtracking.com
+0.0.0.0 ads-creative-cdn.acast.com
+0.0.0.0 ads.goodreads.com
+0.0.0.0 adsbb.dfiles.eu
+0.0.0.0 pad3.whstatic.com
+0.0.0.0 pad2.whstatic.com
+0.0.0.0 adtech.nflximg.net
+0.0.0.0 ad.atdmt.com
+0.0.0.0 ads.unibet.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 personalizer.io
+0.0.0.0 adyen.com
+0.0.0.0 engageclick.com
+0.0.0.0 addthis.com
+0.0.0.0 stacksocial.com
+0.0.0.0 nanoadexchange.com
+0.0.0.0 sync.adaptv.advertising.com
 
 #google
 0.0.0.0 google-analytics.com
@@ -84,8 +144,35 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.co.uk
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 2888261.fls.doubleclick.net
+0.0.0.0 www.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googledesktopanalytics.s3.amazonaws.com
+0.0.0.0 plus.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 6232271.fls.doubleclick.net
 
 #facebook
 0.0.0.0 fb-audiencenetwork.com
+0.0.0.0 facebook.com
+0.0.0.0 facebook.net
+0.0.0.0 facebook.us6.list-manage.com
+0.0.0.0 staticxx.facebook.com
 
+#linkedin
+0.0.0.0 dc.ads.linkedin.com
+0.0.0.0 imp2.ads.linkedin.com
+0.0.0.0 px.ads.linkedin.com
 
+#amazon
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
+0.0.0.0 amazon-adsystem.com
