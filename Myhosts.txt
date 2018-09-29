@@ -3,17 +3,22 @@
 #paste that into your gas mask. 
 
 
-0.0.0.0 qualitym8trics.com
-0.0.0.0 api.qualitym8trics.com
-0.0.0.0 www.qualitym8trics.com
+#crahlytics
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
+
+#metrics
+0.0.0.0 qualitym8trics.com
+0.0.0.0 api.qualitym8trics.com
+0.0.0.0 www.qualitym8trics.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 optimizely.com
 0.0.0.0 formisimo.com
 0.0.0.0 cdn-static.formisimo.com
 0.0.0.0 tracking.formisimo.com
+
+#ads
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 3lift.com
 0.0.0.0 eb2.3lift.com
@@ -57,8 +62,6 @@
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 crazyegg.com
 0.0.0.0 script.crazyegg.com
-0.0.0.0 google-analytics.com
-0.0.0.0 www.google-analytics.com
 0.0.0.0 mixpanel.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 rubiconproject.com
@@ -66,15 +69,23 @@
 0.0.0.0 taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 pippio.com
-0.0.0.0 doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 pubmatic.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 veinteractive.com
 0.0.0.0 configusa.veinteractive.com
+
+#google
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
+
+#facebook
 0.0.0.0 fb-audiencenetwork.com
+
+
