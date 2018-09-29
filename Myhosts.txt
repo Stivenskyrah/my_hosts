@@ -166,6 +166,7 @@
 0.0.0.0 facebook.net
 0.0.0.0 facebook.us6.list-manage.com
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 graph.facebook.com
 
 #linkedin
 0.0.0.0 dc.ads.linkedin.com
