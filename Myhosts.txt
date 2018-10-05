@@ -159,6 +159,15 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 6232271.fls.doubleclick.net
+0.0.0.0 googletagmanager.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
+0.0.0.0 google-analytics.com			# breaks some sites
+0.0.0.0 www.google-analytics.l.google.com
+0.0.0.0 stat.livejournal.com	
 
 #facebook
 0.0.0.0 fb-audiencenetwork.com
@@ -167,6 +176,9 @@
 0.0.0.0 facebook.us6.list-manage.com
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 fb-audiencenetwork.com
+0.0.0.0 www.facebook.com
+0.0.0.0 https://www.facebook.com
 
 #linkedin
 0.0.0.0 dc.ads.linkedin.com
