@@ -5,6 +5,7 @@
 0.0.0.0 www.yoursbestonlineflash.icu
 0.0.0.0 yoursbestonlineflash.icu
 
+
 #crahlytics
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com 
@@ -46,6 +47,8 @@
 0.0.0.0 tracker.affirm.com
 
 #ads
+0.0.0.0 play.mobohouse.com
+0.0.0.0 mobohouse.com
 0.0.0.0 affirm.com
 0.0.0.0 3lift.com
 0.0.0.0 3lift.com.w3snoop.com
