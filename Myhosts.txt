@@ -1,7 +1,9 @@
-#to use this file upload it to the SS website then use http://www.getlinkinfo.com/ 
-#to get the original link to it (not the referral link) then copy and 
-#paste that into your gas mask. 
+# Updated Oct 2018
 
+#fakeflashspam
+0.0.0.0 www2.yoursbestonlineflash.icu
+0.0.0.0 www.yoursbestonlineflash.icu
+0.0.0.0 yoursbestonlineflash.icu
 
 #crahlytics
 0.0.0.0 crashlytics.com
