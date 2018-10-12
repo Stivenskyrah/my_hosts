@@ -5,6 +5,9 @@
 0.0.0.0 www.yoursbestonlineflash.icu
 0.0.0.0 yoursbestonlineflash.icu
 
+#russianspam
+0.0.0.0 www.trfmxt.com
+0.0.0.0 trfmxt.com
 
 #crahlytics
 0.0.0.0 crashlytics.com
