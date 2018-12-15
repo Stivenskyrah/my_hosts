@@ -1,4 +1,10 @@
-# Updated Oct 12 2018
+# Updated Dec 15 2018
+
+#antiadblock
+0.0.0.0 www.blockadblock.com
+0.0.0.0 blockadblock.com
+0.0.0.0 www.blockadblock.co.uk
+0.0.0.0 blockadblock.co.uk
 
 #fakeflashspam
 0.0.0.0 www2.yoursbestonlineflash.icu
