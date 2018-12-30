@@ -1,4 +1,20 @@
-# Updated Dec 15 2018
+# Updated Dec 30 2018
+
+#adobeblockers
+0.0.0.0 adobe.com
+0.0.0.0 www.adobe.com
+0.0.0.0 adobelogin.com
+0.0.0.0 www.adobelogin.com
+0.0.0.0 swupmf.adobe.com
+0.0.0.0 armmf.adobe.com
+0.0.0.0 genuine.adobe.com
+0.0.0.0 agsupdate.adobe.com
+0.0.0.0 psbutler.adobe.com
+0.0.0.0 adobe.io
+0.0.0.0 www.adobe.io
+0.0.0.0 cc-collab.adobe.io
+0.0.0.0 lightroom.adobe.com
+0.0.0.0 services.adobe.com
 
 #antiadblock
 0.0.0.0 www.blockadblock.com
@@ -194,6 +210,8 @@
 0.0.0.0 fb-audiencenetwork.com
 0.0.0.0 www.facebook.com
 0.0.0.0 https://www.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.facebook.net
 
 #linkedin
 0.0.0.0 dc.ads.linkedin.com
