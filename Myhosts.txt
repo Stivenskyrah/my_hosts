@@ -1,5 +1,25 @@
 # Updated Dec 30 2018
 
+#parallells
+0.0.0.0 parallels.com
+0.0.0.0 desktop.parallels.com
+
+#luxion
+0.0.0.0 luxion.com
+0.0.0.0 keyshot.com
+0.0.0.0 www.luxion.com
+0.0.0.0 www.keyshot.com
+
+#agilebits
+0.0.0.0 1password.com
+0.0.0.0 www.1password.com
+0.0.0.0 app-updates.agilebits.com
+0.0.0.0 agilebits.com
+0.0.0.0 www.agilebits.com
+0.0.0.0 cache.agilebits.com
+0.0.0.0 c.1password.com
+0.0.0.0 op6.agilebits.com
+
 #adobeblockers
 0.0.0.0 adobe.com
 0.0.0.0 www.adobe.com
@@ -61,6 +81,7 @@
 0.0.0.0 stats.openvpn.net
 0.0.0.0 analytics.twitter.com
 0.0.0.0 smetrics.samsung.com
+0.0.0.0 qualtrics.com
 
 #tracking
 0.0.0.0 track.callcredit.hosted.strongview.com
@@ -70,6 +91,8 @@
 0.0.0.0 tracking.solidworks.com
 0.0.0.0 tracking.3ds.com
 0.0.0.0 tracker.affirm.com
+0.0.0.0 w3snoop.com
+
 
 #ads
 0.0.0.0 play.mobohouse.com
@@ -107,7 +130,7 @@
 0.0.0.0 adsafeprotected.com
 0.0.0.0 demdex.net
 0.0.0.0 www.da-ads.com
-0.0.0.0 da-ads.com
+0.0.0.0 da-ads.com 
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adnxs.com
 0.0.0.0 ib.adnxs.com
@@ -164,7 +187,10 @@
 0.0.0.0 addthis.com
 0.0.0.0 stacksocial.com
 0.0.0.0 nanoadexchange.com
+0.0.0.0 www.nanoadexchange.com
 0.0.0.0 sync.adaptv.advertising.com
+0.0.0.0 adsrvr.org
+0.0.0.0 advertising.com
 
 #google
 0.0.0.0 google-analytics.com
@@ -189,8 +215,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 6232271.fls.doubleclick.net
-0.0.0.0 googletagmanager.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 google-analytics.com
@@ -206,12 +230,14 @@
 0.0.0.0 facebook.net
 0.0.0.0 facebook.us6.list-manage.com
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 static.xx.fbcnd.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 fb-audiencenetwork.com
 0.0.0.0 www.facebook.com
 0.0.0.0 https://www.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 www.facebook.net
+0.0.0.0 xx.fbcnd.com
 
 #linkedin
 0.0.0.0 dc.ads.linkedin.com
