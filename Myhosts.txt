@@ -1,4 +1,4 @@
-# Updated Dec 30 2018
+# Updated Jan 30 2018
 
 #parallells
 0.0.0.0 parallels.com
@@ -219,10 +219,12 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
-0.0.0.0 google-analytics.com			# breaks some sites
+0.0.0.0 ebay.doubleclick.net
+0.0.0.0 google-analytics.com
 0.0.0.0 www.google-analytics.l.google.com
 0.0.0.0 stat.livejournal.com	
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 googlesyndication.com
 
 #facebook
 0.0.0.0 fb-audiencenetwork.com
