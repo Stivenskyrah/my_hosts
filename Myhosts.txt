@@ -1,4 +1,4 @@
-# Updated Dec 30 2018
+# Updated Dec 4 April 2021
 
 #onetimeoffer
 0.0.0.0 one-time-offer.com
@@ -98,6 +98,7 @@
 0.0.0.0 tracking.3ds.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 w3snoop.com
+0.0.0.0 app-measurement.com
 
 
 #ads
@@ -197,6 +198,7 @@
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 adsrvr.org
 0.0.0.0 advertising.com
+0.0.0.0 imagec16.247realmedia.com
 
 #google
 0.0.0.0 google-analytics.com
@@ -230,6 +232,10 @@
 0.0.0.0 www.google-analytics.l.google.com
 0.0.0.0 stat.livejournal.com	
 0.0.0.0 www.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
 
 #youtube ads
 0.0.0.0 r5---sn-aigzrne7.googlevideo.com
@@ -284,3 +290,19 @@
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 com.amazon.AmazonJP
+
+#ITV Tv ads
+0.0.0.0 toots-a.akamaihd.net
+0.0.0.0 c1rhbbt88l.execute-api.eu-west-1.amazonaws.com
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 europe-west1-itv-ds-prd.cloudfunctions.net
+0.0.0.0 mp.adverts.itv.com
+0.0.0.0 2cnt.net #may break ITV, channel 5 and all 4. 
+0.0.0.0 buzz.itv.com
+0.0.0.0 sdk.fra-01.braze.eu
+
+#Add to your allow list:
+# mtv.hb.omtrdc.net
+# ch5.sc.omtrdc.net
+# ssl-c5appletv.2cnt.net
+# ssl-itvappletv.2cnt.net
