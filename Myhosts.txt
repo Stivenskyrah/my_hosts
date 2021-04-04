@@ -1,8 +1,14 @@
-# Updated Jan 30 2018
+# Updated Dec 30 2018
+
+#onetimeoffer
+0.0.0.0 one-time-offer.com
+
+#principle
+0.0.0.0 principleformac.com
 
 #parallells
-0.0.0.0 parallels.com
-0.0.0.0 desktop.parallels.com
+# 0.0.0.0 parallels.com
+# 0.0.0.0 desktop.parallels.com
 
 #luxion
 0.0.0.0 luxion.com
@@ -219,12 +225,39 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 ebay.doubleclick.net
-0.0.0.0 google-analytics.com
+0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
+0.0.0.0 google-analytics.com			# breaks some sites
 0.0.0.0 www.google-analytics.l.google.com
 0.0.0.0 stat.livejournal.com	
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 googlesyndication.com
+0.0.0.0 www.googleadservices.com
+
+#youtube ads
+0.0.0.0 r5---sn-aigzrne7.googlevideo.com
+0.0.0.0 r3---sn-aigzrne7.googlevideo.com
+0.0.0.0 r3---sn-5hnekn7z.googlevideo.com
+0.0.0.0 r5---sn-aigl6ney.googlevideo.com
+0.0.0.0 r4---sn-aigl6ned.googlevideo.com
+0.0.0.0 r2---sn-aigzrn7s.googlevideo.com
+0.0.0.0 r5---sn-aigzrn7l.googlevideo.com
+0.0.0.0 r2---sn-aigzrne7.googlevideo.com
+0.0.0.0 r2---sn-aigzrner.googlevideo.com
+0.0.0.0 r4---sn-aigl6ney.googlevideo.com
+0.0.0.0 r5---sn-aigzrn7s.googlevideo.com
+0.0.0.0 r3---sn-aigl6n7s.googlevideo.com
+0.0.0.0 r3---sn-5hnednlr.googlevideo.com
+0.0.0.0 r2---sn-aigl6nek.googlevideo.com
+0.0.0.0 r3---sn-aigl6ned.googlevideo.com
+0.0.0.0 r2---sn-aigl6nl7.googlevideo.com
+0.0.0.0 r5---sn-aigl6ner.googlevideo.com
+0.0.0.0 r3---sn-aigzrn7d.googlevideo.com
+0.0.0.0 r2---sn-aigzrn7z.googlevideo.com
+0.0.0.0 r1---sn-aigl6nek.googlevideo.com
+0.0.0.0 r1---sn-aigzrn7s.googlevideo.com
+0.0.0.0 r5---sn-aigzrn76.googlevideo.com
+0.0.0.0 r3---sn-aigzrn7e.googlevideo.com
+0.0.0.0 r1---sn-aigl6nl7.googlevideo.com
+0.0.0.0 r1---sn-aigl6n76.googlevideo.com
+0.0.0.0 i1.ytimg.com
 
 #facebook
 0.0.0.0 fb-audiencenetwork.com
