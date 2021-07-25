@@ -6,10 +6,6 @@
 #principle
 0.0.0.0 principleformac.com
 
-#parallells
-# 0.0.0.0 parallels.com
-# 0.0.0.0 desktop.parallels.com
-
 #luxion
 0.0.0.0 luxion.com
 0.0.0.0 keyshot.com
@@ -236,6 +232,20 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 cdn.http.anno.channel4.com
+0.0.0.0 monitor.channel4.com
+0.0.0.0 toots-a.akamaihd.net
+0.0.0.0 c1rhbbt88l.execute-api.eu-west-1.amazonaws.com
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 europe-west1-itv-ds-prd.cloudfunctions.net
+0.0.0.0 mp.adverts.itv.com
+0.0.0.0 2cnt.net
+0.0.0.0 buzz.itv.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 app-measurement.com
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 imagec16.247realmedia.com
 
 #youtube ads
 0.0.0.0 r5---sn-aigzrne7.googlevideo.com
