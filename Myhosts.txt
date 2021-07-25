@@ -3,41 +3,6 @@
 #onetimeoffer
 0.0.0.0 one-time-offer.com
 
-#principle
-0.0.0.0 principleformac.com
-
-#luxion
-0.0.0.0 luxion.com
-0.0.0.0 keyshot.com
-0.0.0.0 www.luxion.com
-0.0.0.0 www.keyshot.com
-
-#agilebits
-0.0.0.0 1password.com
-0.0.0.0 www.1password.com
-0.0.0.0 app-updates.agilebits.com
-0.0.0.0 agilebits.com
-0.0.0.0 www.agilebits.com
-0.0.0.0 cache.agilebits.com
-0.0.0.0 c.1password.com
-0.0.0.0 op6.agilebits.com
-
-#adobeblockers
-0.0.0.0 adobe.com
-0.0.0.0 www.adobe.com
-0.0.0.0 adobelogin.com
-0.0.0.0 www.adobelogin.com
-0.0.0.0 swupmf.adobe.com
-0.0.0.0 armmf.adobe.com
-0.0.0.0 genuine.adobe.com
-0.0.0.0 agsupdate.adobe.com
-0.0.0.0 psbutler.adobe.com
-0.0.0.0 adobe.io
-0.0.0.0 www.adobe.io
-0.0.0.0 cc-collab.adobe.io
-0.0.0.0 lightroom.adobe.com
-0.0.0.0 services.adobe.com
-
 #antiadblock
 0.0.0.0 www.blockadblock.com
 0.0.0.0 blockadblock.com
